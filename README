@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=737
+
+Prespec is a declarative language for program specialization. This file contains syntax hilighting
+rules for it.
